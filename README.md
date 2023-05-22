@@ -1,5 +1,9 @@
-## - 🤔 When you arise in the morning,think of what a precious privilege it is to be alive - to breathe,to think,to enjoy,to love. ~Marcus Aurelius.
-## - 😄 当你早晨起来的时候，想想活着是多么宝贵的特权——还能呼吸，还能思考，还能享受，还能去爱。~马尔克·奥列里乌斯。
+### - 🤔 When you arise in the morning,think of what a precious privilege it is to be alive - to breathe,to think,to enjoy,to love. ~Marcus Aurelius.
+### - 😄 当你早晨起来的时候，想想活着是多么宝贵的特权——还能呼吸，还能思考，还能享受，还能去爱。~马尔克·奥列里乌斯。
+
+主页访问量<br>
+
+![](https://profile-counter.glitch.me/songshuzhong/count.svg)
 
 <!--
 **songshuzhong/songshuzhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
