@@ -6,7 +6,7 @@
 - [🎉 即刻体验](https://songshuzhong.github.io/i-website/dist/home.html#/playground)
 - [🎉 更新日志](https://songshuzhong.github.io/i-website/dist/home.html#/logs)
 
-[![songshuzhong's github stats](https://github-readme-stats.vercel.app/api?username=songshuzhong&theme=default&show_icons=true&bg_color=30,409EFF,CDE3FF&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true)](https://github.com/songshuzhong/i-website)
+[![songshuzhong's github stats](https://github-readme-stats.vercel.app/api?username=songshuzhong&theme=default&show_icons=true&bg_color=30,409EFF,white&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true)](https://github.com/songshuzhong/i-website)
 
 
 ### 主页访问量<br>
