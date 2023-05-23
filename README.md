@@ -3,9 +3,9 @@
    
 [🎉 官网首页](https://songshuzhong.github.io/i-website/dist/home.html) | [✨ 案例合集](https://songshuzhong.github.io/i-website/dist/index.html) | [🎡 即刻体验](https://songshuzhong.github.io/i-website/dist/home.html#/playground) | [🏷 更新日志](https://songshuzhong.github.io/i-website/dist/home.html#/logs) | [🔑 样本项目](https://github.com/songshuzhong/i-renderer-sample) 
 
-[![您的点赞或吐槽都是作者进步的动力](https://github-readme-stats.vercel.app/api?username=songshuzhong&count_private=true&theme=default&show_icons=true&bg_color=50,409EFF,CDE3FF&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true)](https://github.com/songshuzhong/i-website)
+[![songshuzhong](https://github-readme-stats.vercel.app/api?username=songshuzhong&count_private=true&theme=default&show_icons=true&bg_color=50,409EFF,CDE3FF&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true)](https://github.com/songshuzhong/i-website)
 
-### 主页访问量<br>
+### 您的点赞或吐槽都是作者进步的动力<br>
 
 ![](https://profile-counter.glitch.me/songshuzhong/count.svg)
 
