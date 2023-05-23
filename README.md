@@ -9,9 +9,6 @@
 
 [![songshuzhong's github stats](https://github-readme-stats.vercel.app/api?username=songshuzhong&count_private=true&theme=default&show_icons=true&bg_color=50,409EFF,CDE3FF&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true)](https://github.com/songshuzhong/i-website)
 
-[![stats](https://github-readme-stats.vercel.app/api/pin/?username=songshuzhong&repo=i-website&show_owner=true)](https://github.com/songshuzhong/songshuzhong)
-
-
 ### 主页访问量<br>
 
 ![](https://profile-counter.glitch.me/songshuzhong/count.svg)
